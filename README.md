@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mit Patel
-- 👀 I’m interested in ... Connecting to Different People
-- 🌱 I’m currently learning ... Masters in Data Analytics
+- 👀 I’m interested in connecting to different people
+- 🌱 I’m currently learning Masters in Data Analytics
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
